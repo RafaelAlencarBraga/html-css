@@ -1,0 +1,19 @@
+altuma da caixa a gente chama de: height
+a largura a gente chama de : Width
+uma borda é uma linha que circunda o seu conteudo
+
+
+o box level sempre de inicia em uma linha nova e sempre oculpa a largura total da tela
+ex de box-level: <div>
+ex de inline-level: <span>
+
+<span> é uma expanção de códigos.
+
+quando usar div e quando usar span: div é quando eu quero quebrar a linha, ao usar a largura inteira, já o span ele segue na msm linha.
+
+
+
+
+
+
+ 
